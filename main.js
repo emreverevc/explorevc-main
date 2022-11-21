@@ -19,6 +19,15 @@ var word_scroll = setInterval(function () {
     }
 }, 2000);
 
+var investment_stage_filters = [];
+var sector_filters = [];
+var geography_filters = [];
+var underrepresentedGP_filters = [];
+var card_view_selected = true;
+var table_view_selected = false;
+
+
+
 window.onload = function() {
 
     const counter = document.getElementById('blahblah');
@@ -55,12 +64,7 @@ window.onload = function() {
 //     generateFilterOptions();
 //   }
   
-  var investment_stage_filters = [];
-  var sector_filters = [];
-  var geography_filters = [];
-  var underrepresentedGP_filters = [];
-  var card_view_selected = true;
-  var table_view_selected = false;
+  
 
   function reset_filters() {
     var chkinput = document.getElementById("dropdown_filter_item_select_all_investment_stage");
