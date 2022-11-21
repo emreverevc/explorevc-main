@@ -1,4 +1,4 @@
-.body {
+.body-class {
     background-color: #0c0f20;
     margin: auto;
     max-width: 1571px;
@@ -831,7 +831,7 @@ label::before2 {
     
     .tag-item {
       width:auto!important;
-    }
+    } 
     
       .logo {
       float: left;
@@ -948,6 +948,7 @@ label::before2 {
       transparent 8%
     );
     background-position: 0% 0%;
+    background-size: 3vmin 3vmin;
     background-size: 3vmin 3vmin;
     height: calc(100% - 2rem);
     padding: 1rem;
