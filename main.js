@@ -48,6 +48,7 @@ window.onload = function() {
 
     if (card_view_selected) {
         createGrid(fundsArray);
+        console.log("hello");
     } else {
         createTable(fundsArray);
         generateMoreInfo();
