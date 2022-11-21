@@ -891,7 +891,7 @@ label::before2 {
 
   .card {
     aspect-ratio: 1 / 1.6;
-    border: 0.5vmin solid var(--border);
+    border: 1px solid var(--border);
     cursor: pointer;
     position: relative;
     animation: grow-animate .4s linear;
@@ -954,7 +954,7 @@ label::before2 {
     background-position: 0% 0%;
     /* background-size: 3vmin 3vmin; */
     /* /* background-size: 3vmin 3vmin; */
-    background-size: 2vw 2vw;
+    background-size: 45px 45px;
     height: calc(100% - 2rem);
     padding: 1rem;
     position: relative;
