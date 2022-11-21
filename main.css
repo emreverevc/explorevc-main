@@ -109,6 +109,7 @@ button {
 
 .hero-text-mask {
     height: 128px;
+    line-height: 160px;
     position: relative;
     overflow: hidden;
     padding-top: 25px;
@@ -294,6 +295,7 @@ button {
     font-family: 'DM Sans';
     text-align: center;
     font-size: 48px;
+    line-height: 60px;
     font-weight: 500;
     color: white;
 }
@@ -380,6 +382,7 @@ button {
     padding: 5%;
     font-family: 'DM Sans';
     font-size: 2.25rem;
+    line-height: 3.375rem;
     font-weight: 400;
     color: white;
     hyphens: auto;
@@ -809,6 +812,7 @@ label::before2 {
     }
     .card-title {
         font-size: 4.5vmin;
+        line-height: 5.625vmin;
     }
   }
 
