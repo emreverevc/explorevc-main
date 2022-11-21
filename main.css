@@ -959,7 +959,7 @@ label::before2 {
     padding: 1rem;
     position: relative;
     transition: background-position 350ms ease;
-    width: calc(100% - 2rem);
+    width: calc(100% - 0rem);
     z-index: 2;
 
     display: flex;
