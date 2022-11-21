@@ -735,6 +735,7 @@ function createGrid(tableData) {
         var see_snapshot = document.createElement('div');
         see_snapshot.className = "see-snapshot";
         see_snapshot.onclick = function() {window.open(tableData[i]["VerifiedSnapshot"]);};
+        // see_snapshot.onclick = function() {window.open("www.google.com");};
         see_snapshot.style.transitionDelay = "750ms"
 
         var word_see = document.createElement('span');
