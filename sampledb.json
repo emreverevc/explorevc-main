@@ -1,0 +1,39 @@
+{
+  "funds": [
+    {
+      "id": 1,
+      "fundName": "Andreessen Horowitz",
+      "location": "North America"
+    },
+    {
+      "id": 2,
+      "fundName": "Legend Capital",
+      "location": "Asia"
+    },
+    {
+      "id": 3,
+      "fundName": "Partech Partners",
+      "location": "Europe"
+    },
+    {
+      "id": 4,
+      "fundName": "Sequoia Capital",
+      "location": "North America"
+    },
+    {
+      "id": 5,
+      "fundName": "Qiming Venture Partners",
+      "location": "Asia"
+    },
+    {
+      "id": 6,
+      "fundName": "IDG Capital",
+      "location": "Asia"
+    },
+    {
+      "id": 7,
+      "fundName": "New Enterprise Associates",
+      "location": "North America"
+    }
+  ]
+}
