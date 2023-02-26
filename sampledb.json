@@ -1,5 +1,4 @@
 {
-  "funds": [
     {
       "id": 1,
       "fundName": "Andreessen Horowitz",
@@ -35,5 +34,4 @@
       "fundName": "New Enterprise Associates",
       "location": "North America"
     }
-  ]
 }
